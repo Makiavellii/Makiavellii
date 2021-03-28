@@ -1,16 +1,17 @@
 ### Hi there 👋
+You may recognize me from my old name `jeebsAU` but I used to run a few projects in TF2. Nowadays I don't do a whole lot but make useless mods such as 2007 killfeed icons and replacing the mercenary badge with the cheater's lament.
 
-<!--
-**Makiavellii/Makiavellii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things I've made/make:
+- No Hats Mod
+- Headsfeet Mod
+- Respawn League Network Settings
+- Rainbowmizer-Chaos Script
+- SakiHUD
+- 2007 killfeed icons
 
-Here are some ideas to get you started:
+### Find me via:
+[Steam](https://steamcommunity.com/id/MakiavelliTheDon)  
+[Twitter](https://twitter.com/jeebsau)  
+[YouTube](https://youtube.com/XJEEBSX1)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me via Steam or Twitter if necessary.
