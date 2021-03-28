@@ -15,4 +15,4 @@ You may recognize me from my old name `jeebsAU` but I used to run a few projects
 [YouTube](https://youtube.com/XJEEBSX1)  
 Discord: jayyy lmao#1999
 
-Contact me via Steam or Twitter if necessary.
+Contact me via Steam, Discord or Twitter if necessary.
