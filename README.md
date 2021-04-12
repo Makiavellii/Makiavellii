@@ -13,6 +13,6 @@ You may recognize me from my old name `jeebsAU` but I used to run a few projects
 [Steam](https://steamcommunity.com/id/MakiavelliTheDon)  
 [Twitter](https://twitter.com/jeebsau)  
 [YouTube](https://youtube.com/XJEEBSX1)  
-Discord: jayyy lmao#1999
+Discord: jeebs-AA-#1999
 
 Contact me via Steam, Discord or Twitter if necessary.
