@@ -14,6 +14,6 @@ You may recognize me from my old name `jeebsAU` but I used to run a few projects
 [Twitter](https://twitter.com/jeebsau)  
 [YouTube](https://youtube.com/XJEEBSX1)  
 [TeamFortressTV](https://www.teamfortress.tv/user/jeebsau)  
-Discord: jbstr#1999
+Discord: jeebsxyou#1999
 
 Contact me via Steam, Discord or Twitter if necessary.
