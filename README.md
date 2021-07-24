@@ -10,9 +10,9 @@ You may recognize me from my old name `jeebsAU` but I used to run a few projects
 - 2007 killfeed icons
 
 ## Find me via:
-[Steam](https://steamcommunity.com/id/MakiavelliTheDon)  
+[Steam](https://steamcommunity.com/id/KilluminatiThe7DayTheory)  
 [Twitter](https://twitter.com/jeebsau)  
-[YouTube](https://youtube.com/XJEEBSX1)  
+[YouTube](https://youtube.com/jeebsxyou)  
 [TeamFortressTV](https://www.teamfortress.tv/user/jeebsau)  
 Discord: jeebsxyou#1999
 
