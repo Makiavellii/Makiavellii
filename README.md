@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-You may recognize me from my old name `jeebsAU` but I used to run a few projects in TF2. Nowadays, I don't make mods but I play the video game I made the mods for instead. 
+You may recognize me from my old name <code>jeebsAU</code> but I used to run a few projects in TF2. Nowadays, I don't make mods but I play the video game I made the mods for instead. 
 
 ## Things I've made/make:
 + No Hats Mod & Headsfeet Mod (my versions have long since been depreciated)
